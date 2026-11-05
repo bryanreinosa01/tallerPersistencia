@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498947300435",
+    "project_id": "tallerpersistencia-eb637",
+    "storage_bucket": "tallerpersistencia-eb637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498947300435:android:6c112748eaddd00f82faa6",
+        "android_client_info": {
+          "package_name": "com.example.taller_persistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WfypOJ28Koa3ghb8D4f7PaJrl1QxUGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
